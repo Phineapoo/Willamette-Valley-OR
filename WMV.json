@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-04-12",
+      "changelog": "",
+      "download": "",
+      "sha256": ""
+    }
+  ] 
+}
